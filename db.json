@@ -1,0 +1,22 @@
+{
+  "requests": [
+    {
+      "phone": "89966296515",
+      "email": "vaskodim@gmail.com",
+      "id": 1,
+      "name": "Григорий Алексеев",
+      "product": "course-js",
+      "status":"new",
+      "date":"2021.01.23"
+    },
+    {
+      "phone": "99042692698",
+      "email": "margo@gmail.com",
+      "id": 1,
+      "name": "Маргарита Симоньян",
+      "product": "course-html",
+      "status":"inwork",
+      "date":"2022.03.29"
+    }
+  ]
+}
